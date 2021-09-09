@@ -1,3 +1,10 @@
+# This Website Features:
+1. Fully Responsive Design
+2. Using Google Font
+3. using Font Icons
+4. using Bootstrap
+5. Using Owl Carousel etc.
+
 # Personal Portfolio Website Of Content
 1. Basics
 2. Buttons
