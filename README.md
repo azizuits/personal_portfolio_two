@@ -20,4 +20,4 @@
 https://azizuits.github.io/personal_portfolio_two/
  
 # Screenshot
-<img src="screeshot.jpeg" alt="Personal Website">
+<img src="screenshot.jpeg" alt="Personal Website">
