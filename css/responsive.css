@@ -1,0 +1,141 @@
+@media screen and (min-width: 1200px) {
+          .container {
+                    max-width: 1200px;
+          }
+}
+
+@media only screen and (max-width: 991px) {
+          .about_image:before {
+                    right: 124px !important;
+          }
+          .rs_pb_70 {
+                    padding-bottom: 70px !important;
+          }
+          .banner_full_width .col-md-7 {
+                    width: 100%;
+          }
+          .single_counter#r_border {
+                    border-right: none;
+          }
+          .col-md-3 {
+                    width: 50%;
+          }
+          .half_width .col-md-4 {
+                    width: 50%;
+          }
+          .work_content_area .col-md-4 {
+                    width: 50%;
+          }
+          .single_counter {
+                    margin-bottom: 50px;
+          }
+          .single_counter .r_border_none {
+                    border: none;
+          }
+          .single_testimonial {
+                    margin-bottom: 30px !important;
+          }
+          .resume_section_padding .col-md-6 {
+                    width: 100%;
+          }
+          .blog_slide_area .col-md-4 {
+                    width: 50%;
+          }
+          .contact_section_padding .full_width {
+                    width: 100%;
+          }
+          .contact_widget_area {
+                    margin-left: 0 !important;
+                    margin-top: 10px;
+          }
+          .footer .col-md-6 {
+                    padding-right: 0;
+          }
+          .copy-text p {
+                    font-size: 13px;
+          }
+          .work_content_area .col-md-4 {
+                    width: 100%;
+          }
+}
+@media only screen and (max-width: 767px) {
+          .navbar-collapse .navbar-nav {
+                    background-color: white;
+          }
+          .navbar-collapse .navbar-nav .nav-link {
+                    color: black !important;
+          }
+          .navbar-toggler {
+                    border: none;
+          }
+          .navbar-toggler:focus {
+                    box-shadow: none;
+                    -webkit-box-shadow: none;
+                    -moz-box-shadow: none;
+                    -ms-box-shadow: none;
+                    -o-box-shadow: none;
+          }
+          .banner_content strong {
+                    font-size: 26px !important;
+          }
+          .banner_content h1 {
+                    font-size: 45px !important;
+          }
+          .about_section_padding .col-sm-5,
+          .about_section_padding .col-sm-7 {
+                    width: 100%;
+          }
+          .about_image {
+                    text-align: center;
+          }
+          .about_image:before {
+                    display: none !important;
+          }
+          .about_content_area {
+                    margin-top: 50px;
+          }
+          .service_section_padding .col-sm-6 {
+                    width: 100%;
+          }
+          .border_left {
+                    border-left: none !important;
+          }
+          .owl-nav {
+                    display: none;
+          }
+          .footer {
+                    width: 100%;
+                    text-align: center;
+          }
+          .footer .col-sm-6 {
+                    width: 100%;
+          }
+
+          .full_width .social_link {
+                    margin-top: 20px;
+                    margin-left: -140px;
+          }
+          .blog_slide_area .col-md-4 {
+                    width: 100%;
+          }
+}
+@media only screen and (max-width: 575px) {
+          .work_content_area .col-md-4 {
+                    width: 100%;
+          }
+          .counter_section_padding .col-md-3 {
+                    width: 100%;
+          }
+          .counter_section_padding .single_counter {
+                    border-right: none !important;
+          }
+          .full_width .social_link {
+                    margin-top: 20px;
+                    /* margin-left: -50px; */
+          }
+}
+@media only screen and (max-width: 480px) {
+          .full_width .social_link {
+                    margin-left: -90px;
+          }
+}
