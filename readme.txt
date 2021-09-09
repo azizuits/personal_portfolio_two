@@ -3,9 +3,9 @@
 
  ==> Personal Portfolio Website Of Content
 
-	01 Basics
-	02 Buttons
-	03 Header
+	01. Basics
+	02. Buttons
+	03. Header
 	04 Banner
 	05 About
 	06 Service
@@ -18,7 +18,7 @@
 	13 Contact
 	14 Footer
 	15 Top-control
-    16 Preloader
+                   16 Preloader
  
 
 ---------------------------------------------------------------- */
